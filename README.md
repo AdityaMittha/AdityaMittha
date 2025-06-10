@@ -1,84 +1,97 @@
-<!-- GitHub Profile README for Aditya Mittha -->
+<!-- Banner -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Aditya%20Mittha!%20👋&fontAlign=40&fontAlignY=40&color=gradient&desc=Electronics%20Engineer%20|%20IoT%20Enthusiast%20|%20Embedded%20Innovator&descAlign=60&descAlignY=70" />
 
-<h1 align="center">Hi there, I'm Aditya Mittha 👋</h1>
-<h3 align="center">🚀 Electronics | Embedded Systems | VLSI | IoT Innovator</h3>
-
+<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Engineer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/IOT-Developer-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Smart%20Devices-Innovator-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/VLSI-Enthusiast-purple?style=flat-square" />
+  <a href="https://www.linkedin.com/in/aditya-mittha/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mittha-blue?logo=linkedin"></a>
+  <a href="mailto:adityamittha.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityamittha.engineer-red?logo=gmail"></a>
+  <a href="https://adityamitthaportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Aditya%20Mittha-9cf?logo=githubpages"></a>
+  <img src="https://komarev.com/ghpvc/?username=adityamittha&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+### 🧠 About Me
 
-I'm an Electronics Engineer with a passion for building intelligent, sustainable, and efficient hardware-software systems. Whether it's IoT, VLSI, robotics, or embedded control, I'm always exploring innovative ways to solve real-world problems.
+🔧 I'm a passionate **Electronics & Embedded Systems Engineer** exploring the crossroads of **IoT, Smart Automation, VLSI, and Robotics**.  
+🎯 I turn ideas into reality using efficient hardware-software integration with a goal to solve real-world challenges.
 
-- 🌱 Currently working on **Smart Plant Care**, **Wireless RoboRACE bots**, and **Portable Glaucoma Detectors**
-- 🧩 Strong in **ESP32**, **STM32**, **Verilog**, **Arduino**, **FreeRTOS**, **IoT Protocols**, **Web-Dashboards**
-- 🌍 Focused on **resource optimization**, **real-time control**, and **future-ready electronics**
+💡 I love building:
 
----
-
-## 📊 Developer Dashboard
-
-| Tech Stack            | Tools/Frameworks            | Interests & Focus                    |
-|----------------------|-----------------------------|--------------------------------------|
-| `ESP32`, `STM32`, `AVR` | `PlatformIO`, `Arduino`, `KiCAD` | IoT Automation, Smart Devices        |
-| `C`, `C++`, `Python` | `Blynk`, `FreeRTOS`, `Firebase` | Embedded AI (No ML), Smart Farming  |
-| `Verilog`, `VHDL`    | `Vivado`, `Quartus`          | Low-power Design, VLSI Prototyping   |
-| `HTML`, `CSS`, `JS`  | `Node.js`, `Express`         | Web-based Dashboards, Control Systems |
+- Intelligent & Affordable Hardware Products
+- Real-Time Embedded IoT Systems
+- Smart Agricultural and Environmental Devices
+- Next-Gen Robotics with AI Features
 
 ---
 
-## 🛠️ Featured Projects
-
-### 🌿 Smart Plant Care System
-> Auto-watering based on soil moisture, OLED display, and wireless access point.  
-> **Tech:** ESP32, DHT22, Servo, OLED, Web Control  
-> 🔗 [View Project Repo](#) | 📷 [Image](#) | 💡 [Blog](#)
-
-### 🚗 Advanced Line Follower Robot
-> AI-enhanced high-speed line follower with ESP32 & 16-sensor IR Matrix.  
-> **Tech:** Pololu QTRX, DRV8833, 1500 RPM Motors  
-> 🔗 [View Project Repo](#)
-
-### 🌬️ Smart IoT Air Purifier
-> Real-time AQI display, filter status alerts, and energy efficiency mode.  
-> **Tech:** BME680, ESP32, OLED, Blynk  
-> 🔗 [View Project Repo](#)
-
-### 💧 Water Quality Monitoring System
-> Portable WQI meter with app access and cloud storage  
-> **Tech:** pH/TDS sensors, Firebase, Android App  
-> 🔗 [View Project Repo](#)
-
----
-
-## 📈 GitHub Stats
+### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityamittha&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamittha&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,arduino,vscode,git,raspberrypi,linux,firebase" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adityamittha&theme=github-compact&area=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=verilog,embedded,androidstudio,figma,bash,kicad,altium" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 📊 My GitHub Stats
 
-<p align="left">
-  🔗 <a href="https://www.linkedin.com/in/adityamittha" target="_blank">LinkedIn</a> <br>
-  🌐 <a href="https://adityamitthaportfolio.lovable.app/" target="_blank">Portfolio Website</a> <br>
-  📧 Email: <a href="mailto:aditya.mittha.eng@gmail.com">aditya.mittha.eng@gmail.com</a> <br>
-</p>
+<div align="center">
+
+  ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityamittha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamittha&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-> 🧩 “Creating intelligent systems is not just engineering — it’s building the future one circuit at a time.”
+### 🚀 Key Projects Dashboard
 
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| 🪴 **Smart Biometric Plant Care System** | Real-time plant monitoring and web-based control system using ESP32 and Blynk. | ESP32, Blynk, OLED, Sensors | [Repo](#) • [Video](#) |
+| 🤖 **AI Line Following Robot** | High-speed decision-based robot with QTR sensor, DRV drivers, and ESP32. | ESP32, DRV8833, QTRX, Encoders | [Repo](#) • [Demo](#) |
+| 🌫️ **Smart Air Purifier** | Detects AQI levels and controls purification automatically via app. | MQ135, ESP32, Firebase, Wokwi | [Repo](#) • [Website](#) |
+| 💧 **Water Quality Monitor** | Calculates Water Quality Index with cloud dashboard and OLED display. | TDS, pH, ESP32, Firebase | [Repo](#) • [Dashboard](#) |
+| ⚙️ **PID Heater System** | Auto-regulates heater using feedback control simulation on Wokwi. | ESP32, Wokwi, C++, OLED | [Repo](#) • [Simulator](#) |
+
+---
+
+### 📁 GitHub Projects Overview
+
+> ✨ Explore my repositories to see complete source code, circuit diagrams, simulation links, and professional documentation.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityamittha&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 🔭 What I’m Currently Working On
+
+- 🔧 Smart AI-Based Crop Advisor Dashboard 🌱
+- 🌐 Real-Time IoT Website for Smart Plant Care
+- 🤝 FastMCP + GitHub + ChatGPT automation tool: `ProjectWorks`
+- 🧪 Personal PCB design automation using AI logic
+
+---
+
+### 🗂 Explore My Portfolio Projects
+
+> [🌐 adityamitthaportfolio.lovable.app](https://adityamitthaportfolio.lovable.app/) – All projects are fully documented with embedded GitHub and demo links.
+
+---
+
+### 📫 Let’s Connect and Collaborate!
+
+- 📧 adityamittha.engineer@gmail.com
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/aditya-mittha/)
+- 🛠 [GitHub Projects](https://github.com/adityamittha)
+- 💡 Open to internships, collaborations, and freelance innovation
+
+---
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient" />
