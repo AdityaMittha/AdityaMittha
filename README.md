@@ -1,6 +1,6 @@
 <!-- Banner -->
-<!-- Header Section with animation -->
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+There!+I'm+Aditya+Mittha;Electronics+%26+Embedded+Engineer;VLSI+%7C+IoT+%7C+Robotics+Specialist;Let's+Build+Smart+Tech+Together!"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%30_________Aditya%20Mittha!%20____👋&fontAlign=40&fontAlignY=40&color=gradient&desc=Electronics%20Engineer%20|%20IoT%20Enthusiast%20|%20Embedded%20Innovator&descAlign=60&descAlignY=70" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+There!+I'm+Aditya+Mittha;Electronics+%26+Embedded+Engineer;VLSI+%7C+IoT+%7C+Robotics+Specialist;Let's+Build+Smart+Tech+Together!" />
 
 <!-- Badges -->
 <p align="center">
