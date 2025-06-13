@@ -1,6 +1,9 @@
 <!-- Banner -->
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=%20Aditya%20Mittha!%20👋"/>
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+There!+I'm+Aditya+Mittha;Electronics+%26+Embedded+Engineer;VLSI+%7C+IoT+%7C+Robotics+Specialist;Let's+Build+Smart+Tech+Together!" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey+There!+I'm+Aditya+Mittha;Electronics+%26+Embedded+Engineer;VLSI+%7C+IoT+%7C+Robotics+Specialist;Let's+Build+Smart+Tech+Together!" />
+</p>
+
 
 <!-- Badges -->
 <p align="center">
