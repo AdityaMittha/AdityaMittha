@@ -9,7 +9,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mittha/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mittha-blue?logo=linkedin"></a>
+  <a href="www.linkedin.com/in/adityamittha"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mittha-blue?logo=linkedin"></a>
   <a href="mailto:adityamittha.engineer@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityamittha.engineer-red?logo=gmail"></a>
   <a href="https://adityamitthaportfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Aditya%20Mittha-9cf?logo=githubpages"></a>
   <img src="https://komarev.com/ghpvc/?username=adityamittha&color=blue" alt="Profile Views" />
