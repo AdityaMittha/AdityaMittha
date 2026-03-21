@@ -86,7 +86,7 @@
 
 ### 🗂 Explore My Portfolio Projects
 
-> [🌐 adityamitthaportfolio.lovable.app](https://adityamitthaportfolio.lovable.app/) – All projects are fully documented with embedded GitHub and demo links.
+> [🌐 ADitya Mittha Portfolio](https://ost-porfolio.vercel.app/) – All projects are fully documented with embedded GitHub and demo links.
 
 ---
 
