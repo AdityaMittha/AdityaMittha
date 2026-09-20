@@ -86,7 +86,7 @@
 
 ### 🗂 Explore My Portfolio Projects
 
-> [🌐 ADitya Mittha Portfolio](https://ost-porfolio.vercel.app/) – All projects are fully documented with embedded GitHub and demo links.
+> [🌐 Aditya Mittha Portfolio](https://ost-porfolio.vercel.app/) – All projects are fully documented with embedded GitHub and demo links.
 
 ---
 
